@@ -9,6 +9,9 @@ Hope you like what you see, and looking forward to chatting soon! 😃
 ## Protothon 6.0 – Product Prototyping Hackathon
 Link: https://www.notion.so/Protothon-6-0-Product-Prototyping-Hackathon-1ac80878d25b80ca8af7e5c4015db67f?pvs=4
 
+## Habi - Apartment Rental App
+Link: https://www.notion.so/Habi-Apartment-Rental-App-1c380878d25b80ffaef3c78cf9051716?pvs=4 
+
 ## NU Library App
 Link: https://www.notion.so/NU-Library-App-1aa80878d25b807f8d2ef3ff0b887211?pvs=4
 
